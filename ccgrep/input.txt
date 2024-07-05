@@ -1,0 +1,8 @@
+Hello world!
+This is a test file.
+The quick brown fox jumps over the lazy dog.
+1234567890
+Special characters: !@#$%^&*()_+
+Patterns to match: abc, def, ghi
+Regex is fun.
+Hello again!
